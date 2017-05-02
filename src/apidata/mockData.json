@@ -1,0 +1,76 @@
+{
+  "dashboardDataSourceResultObj": [
+    {
+      "dataSource": "hive",
+      "inspectionProfileCount": 17,
+      "profilesInspected": 7,
+      "profilesNotYetInspected": 0,
+      "ingestionProfileCount": 0,
+      "successfulIngestionProfileCount": 0,
+      "failedIngestionProfileCount": 0,
+      "profilesNotYetIngested": 0,
+      "successProfilerCount": 0,
+      "totalProfilerCount": 0
+    },
+    {
+      "dataSource": "oracle",
+      "inspectionProfileCount": 3,
+      "profilesInspected": 2,
+      "profilesNotYetInspected": 0,
+      "ingestionProfileCount": 0,
+      "successfulIngestionProfileCount": 0,
+      "failedIngestionProfileCount": 0,
+      "profilesNotYetIngested": 1,
+      "successProfilerCount": 0,
+      "totalProfilerCount": 0
+    },
+    {
+      "dataSource": "redshift",
+      "inspectionProfileCount": 3,
+      "profilesInspected": 2,
+      "profilesNotYetInspected": 0,
+      "ingestionProfileCount": 0,
+      "successfulIngestionProfileCount": 13,
+      "failedIngestionProfileCount": 0,
+      "profilesNotYetIngested": 1,
+      "successProfilerCount": 0,
+      "totalProfilerCount": 0
+    },
+    {
+      "dataSource": "sqlserver",
+      "inspectionProfileCount": 6,
+      "profilesInspected": 3,
+      "profilesNotYetInspected": 0,
+      "ingestionProfileCount": 0,
+      "successfulIngestionProfileCount": 12,
+      "failedIngestionProfileCount": 0,
+      "profilesNotYetIngested": 11,
+      "successProfilerCount": 0,
+      "totalProfilerCount": 0
+    },
+    {
+      "dataSource": "hdfs",
+      "inspectionProfileCount": 22,
+      "profilesInspected": 9,
+      "profilesNotYetInspected": 0,
+      "ingestionProfileCount": 0,
+      "successfulIngestionProfileCount": 0,
+      "failedIngestionProfileCount": 0,
+      "profilesNotYetIngested": 0,
+      "successProfilerCount": 0,
+      "totalProfilerCount": 0
+    },
+    {
+      "dataSource": "mysql",
+      "inspectionProfileCount": 36,
+      "profilesInspected": 18,
+      "profilesNotYetInspected": 0,
+      "ingestionProfileCount": 0,
+      "successfulIngestionProfileCount": 5,
+      "failedIngestionProfileCount": 0,
+      "profilesNotYetIngested": 1,
+      "successProfilerCount": 0,
+      "totalProfilerCount": 0
+    }
+  ]
+}
